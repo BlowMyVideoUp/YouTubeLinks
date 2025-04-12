@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Top 100 YouTube Influencers",
+    "fileName": "TopInfluincers.txt",
+    "thumbnail": "TopInfluincers.png"
+  },
+  {
+    "title": "Top 25 YouTube Videos of All Time",
+    "fileName": "MostViewedVideos.txt",
+    "thumbnail": "MostViewedVideos.png"
+  },
+  {
+    "title": "Top 25 YouTube Travel Videos",
+    "fileName": "TopTravel.txt",
+    "thumbnail": "TopTravel.png"
+  },
+  {
+    "title": "Top 25 YouTube Shorts of All Time",
+    "fileName": "MostViewedShorts.txt",
+    "thumbnail": "MostViewedShorts.png"
+  },
+  {
+    "title": "Top Taylor Swift Songs on YouTube",
+    "fileName": "TopMusicVideos.txt",
+    "thumbnail": "TopMusicVideos.png"
+  },
+  {
+    "title": "Top Race Car Crashes on YouTube",
+    "fileName": "TopRaceCars.txt",
+    "thumbnail": "TopRaceCars.png"
+  },
+  {
+    "title": "Top Rocket Launches & Landings",
+    "fileName": "TopRockets.txt",
+    "thumbnail": "TopRockets.png"
+  },
+  {
+    "title": "This Year\u2019s Movie Trailers on YouTube",
+    "fileName": "TrailerMovies.txt",
+    "thumbnail": "TrailerMovies.png"
+  },
+  {
+    "title": "Top 25 Rock Songs of All Time",
+    "fileName": "TopRockSongs.txt",
+    "thumbnail": "TopRockSongs.png"
+  },
+  {
+    "title": "Top 25 Best Bloopers on YouTube",
+    "fileName": "BestBloopers.txt",
+    "thumbnail": "BestBloopers.png"
+  }
+]
